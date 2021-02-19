@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kanoe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kanoe\\.nuget\\packages"
+    ]
+  }
+}
